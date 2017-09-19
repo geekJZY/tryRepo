@@ -1,4 +1,3 @@
-#new file
-
-*Ziyu Jiang
-*Test
+# new file
+* Ziyu Jiang
+* Test
